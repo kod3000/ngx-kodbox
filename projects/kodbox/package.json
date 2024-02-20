@@ -1,0 +1,33 @@
+{
+  "name": "ngx-kodbox",
+  "version": "4.1.9",
+  "description": "KodBox is an Angular service designed to facilitate communication and state management across components within an Angular application. It employs a variety of programming concepts and techniques integral to reactive programming.",
+  "author": "Nestor Rivera (aka dany)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kod3000/ngx-kodbox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kod3000/ngx-kodbox.git"
+  },
+  "homepage": "https://github.com/kod3000/ngx-kodbox#readme",  
+  "keywords": [
+    "angular",
+    "service",
+    "communication",
+    "wild",
+    "kod",
+    "storage",
+    "pointers"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^17.2.0",
+    "@angular/core": "^17.2.0",
+    "rxjs": "^7.4.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
