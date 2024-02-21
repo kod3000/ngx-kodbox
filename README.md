@@ -1,6 +1,8 @@
 # KodBox Service 
 *(Angular Version, Optimized for Ivy Angular 17)*
 
+![kodbox image](imgs/graphic.webp "")
+
 KodBox primary goal is to simplify communication between components in an Angular application. By managing shared state and providing a central point for function execution and state persistence, it helps in creating a more maintainable and scalable application architecture. The service abstracts away the complexities of direct component-to-component communication and state management, allowing developers to focus on business logic and application development.
 
 <br />
